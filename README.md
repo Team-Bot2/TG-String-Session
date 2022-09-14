@@ -23,19 +23,13 @@ Generate Pyrogram String Session Using this bot.
 <a href="https://t.me/Team_Bot_Support"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
 
 #### Coded By
-- [SDOW](https://github.com/ITZ_SHADOW_XD)
+- [Afk](https://github.com/ITZ_SHADOW_XD)
 - [Sam](https://github.com/Disqualified_xD)
 
 ## Follow on:
 <p align="left">
-<a href="https://github.com/AbirHasan2005"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?logo=github"></a>
+<a href="https://github.com/Official-afk-xD"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?logo=github"></a>
 </p>
 <p align="left">
-<a href="https://twitter.com/AbirHasan2005"><img src="https://img.shields.io/badge/Twitter-Follow%20on%20Twitter-informational.svg?logo=twitter"></a>
-</p>
-<p align="left">
-<a href="https://facebook.com/AbirHasan2005"><img src="https://img.shields.io/badge/Facebook-Follow%20on%20Facebook-blue.svg?logo=facebook"></a>
-</p>
-<p align="left">
-<a href="https://instagram.com/AbirHasan2005"><img src="https://img.shields.io/badge/Instagram-Follow%20on%20Instagram-important.svg?logo=instagram"></a>
+<a href="https://t.me/Official_afk_xD"><img src="https://img.shields.io/badge/Twitter-Follow%20on%20Twitter-informational.svg?logo=twitter"></a>
 </p>
